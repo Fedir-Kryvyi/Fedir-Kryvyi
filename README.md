@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🔭 I’m currently working on my iOS app
+- 🌱 I’m currently learning python
+- 👯 I’m looking to collaborate on software engineering
+- 🤔 I’m looking for help with python programing
+  
 
 <!--
 **Fedir-Kryvyi/Fedir-Kryvyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
